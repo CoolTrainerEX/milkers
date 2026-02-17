@@ -2,6 +2,25 @@
   "name": "milkers",
   "version": "0.1.0",
   "private": true,
+  "description": "Cosmology simulation",
+  "keywords": [
+    "cosmology"
+  ],
+  "homepage": "https://github.com/CoolTrainerEX/milkers#readme",
+  "bugs": {
+    "url": "https://github.com/CoolTrainerEX/milkers/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoolTrainerEX/milkers.git"
+  },
+  "license": "CC-BY-SA-4.0",
+  "author": "CoolTrainerEX",
+  "type": "module",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

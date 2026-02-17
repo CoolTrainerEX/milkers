@@ -3,8 +3,9 @@ name = "milkers"
 version = "0.1.0"
 description = "Cosmology simulation"
 authors = ["CoolTrainerEX"]
-license = ""
-repository = ""
+license = "CC-BY-SA-4.0"
+repository = "https://github.com/CoolTrainerEX/milkers.git"
+keywords = ["cosmology"]
 edition = "2021"
 rust-version = "1.77.2"
 
