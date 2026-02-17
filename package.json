@@ -29,6 +29,11 @@
     "test": "vitest",
     "tauri": "tauri"
   },
+  "prettier": {
+    "plugins": [
+      "prettier-plugin-tailwindcss"
+    ]
+  },
   "dependencies": {
     "@tanstack/react-query": "^5.90.21",
     "class-variance-authority": "^0.7.1",

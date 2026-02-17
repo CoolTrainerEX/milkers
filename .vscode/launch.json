@@ -41,7 +41,7 @@
         "webRoot": "${workspaceFolder}"
       }
     },
-        {
+    {
       "name": "Launch App Debug",
       "type": "cppvsdbg",
       "request": "launch",
